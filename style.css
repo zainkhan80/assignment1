@@ -1,0 +1,140 @@
+.Ab{
+    text-align: center;
+    background-color: black;
+}
+.Bc{
+    text-align: center;
+    color:gray ;
+    word-spacing: 2em;
+}
+
+h1{
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.A{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large;
+}
+.B{
+    word-spacing: 1%;
+    font-size: x-large;
+    text-decoration:none;
+}
+.C{
+    word-spacing: 1em;
+    font-size: x-large;
+    text-decoration: none;
+}
+.E{
+    width: 500pixle;
+    height: 300pixle;
+    padding-inline-start: 40em;
+    filter: drop-shadow(5pixle);
+    
+    
+}
+.F{
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.G{
+    text-decoration: none;
+
+ }
+.H{
+    text-decoration: none;
+    
+}
+.I{
+    width: 1500px;
+    height: calc(100% - var(--global-nav-collective-height, 0));
+    
+}
+.J{
+    text-align: center;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-decoration: none;
+}
+
+.as{
+    text-align: center;
+    
+}
+h2 {
+    margin-top: 10px;
+    color: red;
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 100;
+}
+.fdiv{
+    color: white;
+}
+.bs{
+    text-decoration: none;
+}
+.as{
+    text-decoration:none ;
+}
+.u{
+    
+    text-align: center;
+
+}
+.p{
+    color: white;
+}
+.q{
+    display: inline-block;
+    text-align: center;
+    width: 1000px;
+    height: 500px;
+    background-image:url(./image/WhatsApp\ Image\ 2023-10-05\ at\ 11.28.08\ AM.jpeg);
+    background-size: cover;
+    }
+    .K{
+        color: white;
+        font-size: xx-large;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+.v{
+    text-decoration: none;
+}
+.w{
+    text-decoration: none;
+}
+.container{
+    display: inline-block;
+    width: 900px;
+    height: 800px ;
+    background-image:url(https://www.apple.com/v/apple-vision-pro/a/images/overview/hero/portrait_base__bwsgtdddcl7m_large.jpg);
+    position: relative;
+    background-size: cover;
+}
+.M{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 280px;
+}
+.X{
+    color: grey;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    
+
+.QW{
+    color: white;
+}
